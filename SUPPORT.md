@@ -1,4 +1,4 @@
-# SwiftCraft — Support
+# Codey — Support
 
 *Μάθε προγραμματισμό. Ένα μπλοκ τη φορά. · Learn to code. One block at a time.*
 
@@ -6,7 +6,7 @@
 
 ## 🇬🇧 Need help?
 
-For any questions, bug reports, refund queries, or feedback about **SwiftCraft**, contact us:
+For any questions, bug reports, refund queries, or feedback about **Codey**, contact us:
 
 **Email:** [info@zentro.gr](mailto:info@zentro.gr)
 
@@ -27,7 +27,7 @@ We aim to reply within a few business days.
 
 ## 🇬🇷 Χρειάζεστε βοήθεια;
 
-Για οποιαδήποτε ερώτηση, αναφορά σφάλματος, αίτημα επιστροφής χρημάτων ή σχόλιο σχετικά με το **SwiftCraft**, επικοινωνήστε μαζί μας:
+Για οποιαδήποτε ερώτηση, αναφορά σφάλματος, αίτημα επιστροφής χρημάτων ή σχόλιο σχετικά με το **Codey**, επικοινωνήστε μαζί μας:
 
 **Email:** [info@zentro.gr](mailto:info@zentro.gr)
 

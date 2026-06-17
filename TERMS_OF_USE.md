@@ -1,22 +1,22 @@
 # Terms of Use
 
-**Last updated: June 12, 2026**
+**Last updated: June 17, 2026**
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using SwiftCraft (the "App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using Codey (the "App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ## 2. Description of Service
 
-SwiftCraft is a gamified learning application that teaches Swift programming and iOS development through interactive challenges, lessons, and modules. The App is available for iPhone devices running iOS 17.0 or later.
+Codey is a gamified learning application that teaches Swift programming and iOS development through interactive challenges, lessons, and modules. The App is available for iPhone devices running iOS 17.0 or later.
 
 ## 3. Ownership and License
 
 ### App License
-SwiftCraft is licensed, not sold, to you. We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for your personal, non-commercial purposes, subject to these Terms.
+Codey is licensed, not sold, to you. We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for your personal, non-commercial purposes, subject to these Terms.
 
 ### Content Ownership
-All curriculum content, challenges, lessons, code examples, and educational materials within the App are owned by SwiftCraft and are protected by copyright and other intellectual property laws.
+All curriculum content, challenges, lessons, code examples, and educational materials within the App are owned by Codey and are protected by copyright and other intellectual property laws.
 
 ### User Content
 Your progress data (completed challenges, XP, streaks, badges) belongs to you. We claim no ownership over your learning progress.
@@ -71,7 +71,7 @@ WE DO NOT WARRANT THAT:
 
 ## 8. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, SWIFTCRAFT SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM:
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, CODEY SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM:
 - Your use or inability to use the App
 - Any content obtained from the App
 - Unauthorized access to or alteration of your data
@@ -97,4 +97,4 @@ For questions about these Terms, please contact us at:
 
 ---
 
-*SwiftCraft — Learn to code. One block at a time.*
+*Codey — Learn to code. One block at a time.*

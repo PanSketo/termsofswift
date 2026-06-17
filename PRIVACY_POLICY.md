@@ -1,14 +1,14 @@
 # Privacy Policy
 
-**Last updated: June 13, 2026**
+**Last updated: June 17, 2026**
 
 ## Introduction
 
-SwiftCraft ("we," "our," or "us") is built to respect your privacy completely. This Privacy Policy explains how SwiftCraft handles your information — and, importantly, why **we do not collect any of it**.
+Codey ("we," "our," or "us") is built to respect your privacy completely. This Privacy Policy explains how Codey handles your information — and, importantly, why **we do not collect any of it**.
 
 ## We Do Not Collect Your Data
 
-SwiftCraft has **no servers of its own**. We never receive, store, or process your personal information. Everything the App needs stays in one of two places:
+Codey has **no servers of its own**. We never receive, store, or process your personal information. Everything the App needs stays in one of two places:
 
 1. **On your device** (using Apple's on-device storage), or
 2. **In your own private iCloud account** (which only you can access — not us), and only if you choose to enable iCloud Sync.
@@ -62,7 +62,7 @@ Purchase information is managed entirely by Apple's StoreKit 2 and tied to your 
 
 ## Third-Party Services
 
-SwiftCraft uses **no third-party services**, analytics, crash reporting, or advertising frameworks. The App is fully self-contained.
+Codey uses **no third-party services**, analytics, crash reporting, or advertising frameworks. The App is fully self-contained.
 
 ## Data Sharing
 
@@ -76,7 +76,7 @@ Your data lives on your device and/or in your iCloud account for as long as you 
 
 ## Children's Privacy
 
-SwiftCraft is designed for general audiences and does not knowingly collect personal information from children under 13. Since the App collects no data at all, no personal information from any user — child or adult — ever reaches us.
+Codey is designed for general audiences and does not knowingly collect personal information from children under 13. Since the App collects no data at all, no personal information from any user — child or adult — ever reaches us.
 
 ## Your Rights
 
@@ -98,4 +98,4 @@ If you have questions about this Privacy Policy, please contact us at:
 
 ---
 
-*SwiftCraft — Learn to code. One block at a time.*
+*Codey — Learn to code. One block at a time.*
